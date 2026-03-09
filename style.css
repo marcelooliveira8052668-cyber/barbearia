@@ -29,13 +29,11 @@ font-weight:bold;
 .banner{
 
 height:100vh;
-background:url("barbearia.jpg") center/cover;
+background-image:url("banner,jpg");
+background-size:cover;
 display:flex;
 align-items:center;
-justify-content:center;
-color:white;
-font-size:35px;
-text-shadow:2px 2px 5px black;
+justify-content:center;  
 
 }
 
@@ -158,3 +156,4 @@ box-shadow:0 5px 15px rgba(0,0,0,0.3);
 
 
 }
+
